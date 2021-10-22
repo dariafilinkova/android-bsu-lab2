@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">лаб2</string>
+    <string name="textFio">Филинкова Дарья Алексеевна</string>
+    <string name="specialisation">Математическое и программное обеспечение мобильных устройств</string>
+    <string name="group">9 группа</string>
+    <string name="orientation">Портретный вид</string>
+</resources>

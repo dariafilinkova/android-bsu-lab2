@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="textFio">Filinkova Daria Alexeevna</string>
+    <string name="specialisation">Mathematical and software for mobile devices</string>
+    <string name="group">9 group</string>
+    <string name="orientation">Portrait view</string>
+</resources>
